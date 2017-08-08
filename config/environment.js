@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'super-rentals',  # This will differ depending on what you named YOUR app.
+    modulePrefix: 'super-rentals',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
